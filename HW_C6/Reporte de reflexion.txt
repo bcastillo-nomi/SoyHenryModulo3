@@ -1,0 +1,18 @@
+Reporte de reflexión
+
+Desafíos encontrados al escribir las pruebas
+* Primero entender la lógica de la función para poder utilizarla
+* Modificar la función para realizar las modificaciones necesarias que nos fueron solicitadas
+* Aprender a modificar la función de test
+
+
+
+Cómo los resolvió 
+* Buscando  ayuda con el chat para que me explique que hace la función 
+* Con Copilot para que me ayude a generar el código para modificar la función
+* Nuevamente con Copilot, le solicite el código para modificar el test  
+
+
+¿Qué aprendió sobre la importancia del testing en desarrollo de software?
+Al realizar todas las pruebas necesarias garantizamos que nuestros programas minimicen los errores potenciales al ejecutarse por los usuarios.
+Con ello mejoramos la calidad de las entregas y damos una mejor experiencia al utilizar las aplicaciones que se desarrollan.
